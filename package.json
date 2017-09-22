@@ -1,5 +1,6 @@
 {
   "name": "eslint-config-kinvey-platform",
+  "license": "Apache-2.0",
   "version": "0.1.0",
   "description": "ESLint Profile for the Kinvey Platform",
   "main": "index.js",
