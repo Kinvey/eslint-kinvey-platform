@@ -1,5 +1,5 @@
 {
-  "name": "eslint-kinvey-platform",
+  "name": "eslint-config-kinvey-platform",
   "version": "0.1.0",
   "description": "ESLint Profile for the Kinvey Platform",
   "main": "index.js",
