@@ -39,7 +39,7 @@ module.exports = {
       "error",
       "property"
     ],
-    "eqqeq": [
+    "eqeqeq": [
       "warn",
       "allow-null"
     ],
