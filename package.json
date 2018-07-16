@@ -4,6 +4,9 @@
   "version": "0.1.1",
   "description": "ESLint Profile for the Kinvey Platform",
   "main": "index.js",
+  "engines": {
+    "node": ">=8.11.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Kinvey/eslint-kinvey-platform/issues"
   },
-  "homepage": "https://github.com/Kinvey/eslint-kinvey-platform#readme"
+  "homepage": "https://github.com/Kinvey/eslint-kinvey-platform#readme",
+  "dependencies": {
+    "eslint-import-resolver-node": "0.3.2"
+  }
 }
