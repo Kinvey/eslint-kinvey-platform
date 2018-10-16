@@ -4,6 +4,11 @@ module.exports = {
     "es6": true,
     "mocha": true
   },
+  "globals": {
+    "assert": false,
+    "expect": false,
+    "should": false
+  },
   "rules": {
     "accessor-pairs": "off",
     "array-callback-return": "error",
