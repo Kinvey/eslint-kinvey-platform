@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.1.3
+* Add exceptions for global variables
+
 ## 0.1.2
 * Allow param reassign for properties
 
