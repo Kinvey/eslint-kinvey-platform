@@ -17,12 +17,7 @@ module.exports = {
       "off",
       11
     ],
-    "class-methods-use-this": [
-      "error",
-      {
-        "exceptMethods": []
-      }
-    ],
+    "class-methods-use-this": "off",
     "consistent-return": "warn",
     "curly": [
       "error",
@@ -859,8 +854,7 @@ module.exports = {
     "ecmaFeatures": {
       "globalReturn": true,
       "generators": false,
-      "objectLiteralDuplicateProperties": false,
-      "experimentalObjectRestSpread": true
+      "objectLiteralDuplicateProperties": false
     },
     "ecmaVersion": 2017,
     "sourceType": "module"
