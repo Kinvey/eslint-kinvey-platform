@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.4
+* Disable rule that expects class methods to use 'this'
+* Remove deprecated 'experimentalObjectRestSpread' flag
+
 ## 0.1.3
 * Add exceptions for global variables
 
