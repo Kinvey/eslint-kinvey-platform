@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.1.5
+* Disable no-use-before-define rule for functions
+
 ## 0.1.4
 * Disable rule that expects class methods to use 'this'
 * Remove deprecated 'experimentalObjectRestSpread' flag
