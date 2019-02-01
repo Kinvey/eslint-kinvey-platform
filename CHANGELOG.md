@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.1.6
+* Disable no-plusplus rule
+
 ## 0.1.5
 * Disable no-use-before-define rule for functions
 
