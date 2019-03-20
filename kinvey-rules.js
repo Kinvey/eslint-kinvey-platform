@@ -112,7 +112,7 @@ module.exports = {
     "no-new-wrappers": "error",
     "no-octal": "error",
     "no-octal-escape": "error",
-    "no-param-reassign": "error",
+    "no-param-reassign": "off",
     "no-proto": "error",
     "no-redeclare": "error",
     "no-restricted-properties": [
@@ -495,9 +495,7 @@ module.exports = {
     "no-new-object": "error",
     "no-plusplus": "off",
     "no-restricted-syntax": [
-      "warn",
-      "ForInStatement",
-      "ForOfStatement",
+      "error",
       "LabeledStatement",
       "WithStatement"
     ],
