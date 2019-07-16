@@ -382,7 +382,7 @@ module.exports = {
     ],
     "max-len": [
       "warn",
-      120,
+      160,
       4
     ],
     "max-lines": [
