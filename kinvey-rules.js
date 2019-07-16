@@ -848,7 +848,7 @@ module.exports = {
     "import/no-webpack-loader-syntax": "error",
     "import/no-unassigned-import": "off",
     "import/no-named-default": "error",
-    "strict": "error"
+    "strict": "off"
   },
   "parserOptions": {
     "ecmaFeatures": {
