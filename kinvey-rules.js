@@ -577,7 +577,10 @@ module.exports = {
     "require-jsdoc": "off",
     "semi": [
       "error",
-      "always"
+      "always",
+      {
+        "omitLastInOneLineBlock": true
+      }
     ],
     "semi-spacing": [
       "error",
