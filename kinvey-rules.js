@@ -743,7 +743,7 @@ module.exports = {
     "prefer-reflect": "off",
     "prefer-rest-params": "error",
     "prefer-spread": "error",
-    "prefer-template": "warn",
+    "prefer-template": "off",
     "require-yield": "error",
     "rest-spread-spacing": [
       "error",
