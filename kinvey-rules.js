@@ -512,7 +512,7 @@ module.exports = {
       }
     ],
     "no-unneeded-ternary": [
-      "error",
+      "off",
       {
         "defaultAssignment": false
       }
