@@ -105,7 +105,7 @@ module.exports = {
         "detectObjects": false
       }
     ],
-    "no-multi-spaces": "error",
+    "no-multi-spaces": "off",
     "no-multi-str": "error",
     "no-new": "error",
     "no-new-func": "error",
