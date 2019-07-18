@@ -542,7 +542,7 @@ module.exports = {
       }
     ],
     "one-var": [
-      "error",
+      "off",
       "never"
     ],
     "one-var-declaration-per-line": [
