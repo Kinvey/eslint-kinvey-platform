@@ -491,7 +491,7 @@ module.exports = {
       }
     ],
     "no-negated-condition": "off",
-    "no-nested-ternary": "error",
+    "no-nested-ternary": "off",
     "no-new-object": "error",
     "no-plusplus": "off",
     "no-restricted-syntax": [
