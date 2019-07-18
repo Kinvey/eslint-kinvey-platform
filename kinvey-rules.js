@@ -243,7 +243,7 @@ module.exports = {
       false
     ],
     "no-new-require": "error",
-    "no-path-concat": "error",
+    "no-path-concat": "off",
     "no-process-env": "off",
     "no-process-exit": "off",
     "no-restricted-modules": "off",
