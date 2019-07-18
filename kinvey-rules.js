@@ -550,7 +550,7 @@ module.exports = {
       "always"
     ],
     "operator-assignment": [
-      "error",
+      "off",
       "always"
     ],
     "operator-linebreak": "off",
