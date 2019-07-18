@@ -719,7 +719,7 @@ module.exports = {
     "no-var": "error",
     "object-shorthand": [
       "error",
-      "always",
+      "consistent",
       {
         "ignoreConstructors": false,
         "avoidQuotes": true
