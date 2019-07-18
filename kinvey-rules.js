@@ -547,7 +547,7 @@ module.exports = {
     ],
     "one-var-declaration-per-line": [
       "error",
-      "always"
+      "initializations"
     ],
     "operator-assignment": [
       "error",
