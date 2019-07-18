@@ -435,7 +435,7 @@ module.exports = {
       }
     ],
     "no-array-constructor": "error",
-    "no-bitwise": "error",
+    "no-bitwise": "off",
     "no-continue": "error",
     "no-inline-comments": "off",
     "no-lonely-if": "error",
