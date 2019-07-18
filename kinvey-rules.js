@@ -190,7 +190,7 @@ module.exports = {
     ],
     "no-cond-assign": [
       "error",
-      "always"
+      "except-parens"
     ],
     "no-console": "warn",
     "no-constant-condition": "warn",
