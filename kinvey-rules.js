@@ -496,8 +496,6 @@ module.exports = {
     "no-plusplus": "off",
     "no-restricted-syntax": [
       "warn",
-      "ForInStatement",
-      "ForOfStatement",
       "LabeledStatement",
       "WithStatement"
     ],
