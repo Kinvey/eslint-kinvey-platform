@@ -30,7 +30,7 @@ module.exports = {
       }
     ],
     "dot-notation": [
-      "error",
+      "off",
       {
         "allowKeywords": true
       }
