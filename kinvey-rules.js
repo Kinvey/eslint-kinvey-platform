@@ -666,7 +666,7 @@ module.exports = {
         "args": "after-used"
       }
     ],
-    "no-use-before-define": ["error", { "functions": false }],
+    "no-use-before-define": ["error", { "functions": true }],
     "arrow-body-style": [
       "warn",
       "as-needed"
