@@ -605,7 +605,7 @@ module.exports = {
       }
     ],
     "space-in-parens": [
-      "error",
+      "off",
       "never"
     ],
     "space-infix-ops": "error",
