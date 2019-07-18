@@ -672,8 +672,8 @@ module.exports = {
       "as-needed"
     ],
     "arrow-parens": [
-      "error",
-      "as-needed",
+      "warn",
+      "always",
       {
         "requireForBlockBody": true
       }
