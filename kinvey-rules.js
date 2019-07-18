@@ -43,7 +43,7 @@ module.exports = {
       "warn",
       "allow-null"
     ],
-    "guard-for-in": "warn",
+    "guard-for-in": "off",
     "no-alert": "warn",
     "no-caller": "error",
     "no-case-declarations": "error",
