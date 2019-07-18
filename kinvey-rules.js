@@ -136,7 +136,10 @@ module.exports = {
         "message": "Use the exponentiation operator (**) instead."
       }
     ],
-    "no-return-assign": "warn",
+    "no-return-assign": [
+      "warn",
+      "except-parens"
+    ],
     "no-script-url": "error",
     "no-self-assign": "error",
     "no-self-compare": "error",
