@@ -435,7 +435,13 @@ module.exports = {
       }
     ],
     "no-array-constructor": "error",
-    "no-bitwise": "off",
+    "no-bitwise": [
+      "off",
+      {
+        "allow": ["^", "~", "&", "|", "<<", ">>", ">>>", "^=", "&=", "|=", "<<=", ">>=", ">>>="],
+        "int32Hint": true
+      }
+    ],
     "no-continue": "error",
     "no-inline-comments": "off",
     "no-lonely-if": "error",
