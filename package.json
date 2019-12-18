@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-kinvey-platform",
+  "name": "@progresskinvey/eslint-config-kinvey-platform",
   "license": "Apache-2.0",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "description": "ESLint Profile for the Kinvey Platform",
   "main": "index.js",
   "engines": {
