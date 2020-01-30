@@ -382,7 +382,7 @@ module.exports = {
     ],
     "max-len": [
       "warn",
-      120,
+      150,
       4
     ],
     "max-lines": [
@@ -436,7 +436,7 @@ module.exports = {
     ],
     "no-array-constructor": "error",
     "no-bitwise": "error",
-    "no-continue": "error",
+    "no-continue": "off",
     "no-inline-comments": "off",
     "no-lonely-if": "error",
     "no-mixed-operators": [
