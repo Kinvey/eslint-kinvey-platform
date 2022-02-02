@@ -865,6 +865,7 @@ module.exports = {
       "node": {
         "extensions": [
           ".js",
+          ".jsx",
           ".json"
         ]
       }
