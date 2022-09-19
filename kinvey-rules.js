@@ -854,7 +854,7 @@ module.exports = {
       "generators": false,
       "objectLiteralDuplicateProperties": false
     },
-    "ecmaVersion": 2017,
+    "ecmaVersion": 2018,
     "sourceType": "module"
   },
   "plugins": [

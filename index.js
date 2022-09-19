@@ -3,7 +3,7 @@ module.exports = {
     './kinvey-rules'
   ].map(require.resolve),
   parserOptions: {
-    ecmaVersion: 2017,
+    ecmaVersion: 2018,
     sourceType: 'module'
   }
 };

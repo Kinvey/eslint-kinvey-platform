@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.3.0
+* Added support for ECMAScript 2018
+
 ## 0.1.6
 * Disable no-plusplus rule
 
